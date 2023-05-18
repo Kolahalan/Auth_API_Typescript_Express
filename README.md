@@ -73,18 +73,17 @@ The following dependencies are used:
 
 ## Create an .env File and Add the Following variables
 
-ACCESS_TOKEN_PRIVATE_KEY =
-ACCESS_TOKEN_PUBLIC_KEY =
+- ACCESS_TOKEN_PRIVATE_KEY =
+- ACCESS_TOKEN_PUBLIC_KEY =
 
-REFRESH_PRIVATE_KEY =
-REFRESH_PUBLIC_KEY =
+- REFRESH_PRIVATE_KEY =
+- REFRESH_PUBLIC_KEY =
+- DB_SERVER=
+- DB_PORT=
+- DB_USER=
+- DB_PASSWORD=
 
 #Private and Public Keys are base64 encoded
-
-DB_SERVER=
-DB_PORT=
-DB_USER=
-DB_PASSWORD=
 
 ## POSTMAN Collection JSON
 
